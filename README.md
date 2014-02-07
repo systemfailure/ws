@@ -1,6 +1,4 @@
-================================================================
 WebSocket client, server and administration tool  implementation in simple, yet powerfull combination of JQuery, PHP and AJAX.
-================================================================
 Will be available as soon as possible. Currently in development.
 
 Planned features:
