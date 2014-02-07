@@ -9,6 +9,5 @@ Planned features:
 - Easy installation of user-defined/programmed protocols, running over WebSocket
 - Easy front-end customization
 - Full WS-server control via administration tool
-Other planned features:
 - WS-server implementation in other, more suitable for this purposes language
 - Load balancing
